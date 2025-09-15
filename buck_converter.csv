@@ -1,0 +1,12 @@
+Reference, Value, Footprint, Datasheet
+"U1","LMR51450SDRRR","WSON_SDRRR_TEX",""
+"Cin1","100uF","","~"
+"Cin2","4.7uF","","~"
+"L1","10uH","","~"
+"Cout3","22uF","","~"
+"Cout1","22uF","","~"
+"Cout2","100uF","","~"
+"Rfbt1","82.5k","","~"
+"Rfbb1","10k","","~"
+"Cboot1","0.1uF","","~"
+"Rrt1","31.6k","","~"
